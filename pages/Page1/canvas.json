@@ -46,7 +46,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 12.5625,
-              "leftColumn": 27.417661097852026,
+              "leftColumn": 27.41766109785203,
               "dynamicBindingPathList": [
                 {
                   "key": "buttonColor"
@@ -60,7 +60,7 @@
               "key": "2i0na6wc2j",
               "flexVerticalAlignment": "start",
               "isDeprecated": false,
-              "rightColumn": 36.58233890214797,
+              "rightColumn": 36.582338902147974,
               "isDefaultClickDisabled": true,
               "widgetId": "3bcse8f33k",
               "minWidth": 120,
