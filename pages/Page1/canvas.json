@@ -19,12 +19,11 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 78,
+          "version": 80,
           "minHeight": 1292,
-          "useAutoLayout": true,
+          "useAutoLayout": false,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
-          "responsiveBehavior": "fill",
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": [
@@ -58,7 +57,6 @@
               "text": "Submit",
               "isDisabled": false,
               "key": "2i0na6wc2j",
-              "flexVerticalAlignment": "start",
               "isDeprecated": false,
               "rightColumn": 36.58233890214797,
               "isDefaultClickDisabled": true,
@@ -70,36 +68,26 @@
               "parentId": "0",
               "renderMode": "CANVAS",
               "isLoading": false,
-              "responsiveBehavior": "hug",
               "disabledWhenInvalid": false,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "buttonVariant": "PRIMARY",
-              "placement": "CENTER",
-              "alignment": "center"
+              "placement": "CENTER"
             }
           ],
-          "positioning": "vertical",
-          "flexLayers": [
-            {
-              "children": [
-                {
-                  "id": "3bcse8f33k",
-                  "align": "center"
-                }
-              ]
-            }
-          ]
+          "positioning": "fixed"
         },
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",
-        "deleted": false
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
       }
     ],
     "userPermissions": [],
     "policies": []
   },
-  "gitSyncId": "642ba7fed6d8807c599f7b6d_642ba7fed6d8807c599f7b6f",
-  "deleted": false
+  "deleted": false,
+  "gitSyncId": "642ba7fed6d8807c599f7b6d_642ba7fed6d8807c599f7b6f"
 }
